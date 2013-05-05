@@ -1,0 +1,5 @@
+authtype basic
+authgroupfile /dev/null
+authuserfile /home/content/15/10309115/htconfig/.htpassword.ghtpassword
+authname "Secure Area, authenticate or leave."
+require user chapware
